@@ -19,7 +19,7 @@ void PrintArray(int[] Array)
  
 int[] Array1 = GetArray(10, -10, 10); 
 PrintArray(Array1); 
- 
+
 int CountEvent(int[] Array) 
 { 
     int count = 0; 
